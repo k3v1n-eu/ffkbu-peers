@@ -1,3 +1,3 @@
-key "ae120edbbd07dce57c2ed6ebefd112886a1416322e7a98352866eed1e0d633cc";
-remote ipv4 "vpn1.kbu.freifunk.net" port 10010;
+key "0cadd6b4f942322a55b0028d209967ef0ac4916455c2a02ef0b5c7ba05bae08b";
+remote ipv4 "uvpn1.kbu.freifunk.net" port 10011;
 float yes;
